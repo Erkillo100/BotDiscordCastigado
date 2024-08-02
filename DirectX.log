@@ -1,0 +1,616 @@
+03/31/24 17:13:10: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX3831.tmp\d3dx9_24_x64.inf [DefaultInstall]
+03/31/24 17:13:10: infinst: Installed file C:\Windows\system32\d3dx9_24.dll
+03/31/24 17:13:10: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX3831.tmp\d3dx9_25_x64.inf [DefaultInstall]
+03/31/24 17:13:10: infinst: Installed file C:\Windows\system32\d3dx9_25.dll
+03/31/24 17:13:10: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX3831.tmp\d3dx9_26_x64.inf [DefaultInstall]
+03/31/24 17:13:10: infinst: Installed file C:\Windows\system32\d3dx9_26.dll
+03/31/24 17:13:10: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX3831.tmp\d3dx9_27_x64.inf [DefaultInstall]
+03/31/24 17:13:10: infinst: Installed file C:\Windows\system32\d3dx9_27.dll
+03/31/24 17:13:10: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX3831.tmp\d3dx9_28_x64.inf [DefaultInstall]
+03/31/24 17:13:10: infinst: Installed file C:\Windows\system32\d3dx9_28.dll
+03/31/24 17:13:11: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX3831.tmp\d3dx9_29_x64.inf [DefaultInstall]
+03/31/24 17:13:11: infinst: Installed file C:\Windows\system32\d3dx9_29.dll
+03/31/24 17:13:11: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX3831.tmp\XACT_x64.inf [DefaultInstall]
+03/31/24 17:13:11: infinst: Installed file C:\Windows\system32\xactengine2_0.dll
+03/31/24 17:13:11: infinst: Installed file C:\Windows\system32\x3daudio1_0.dll
+03/31/24 17:13:11: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX3831.tmp\d3dx9_30_x64.inf [DefaultInstall]
+03/31/24 17:13:11: infinst: Installed file C:\Windows\system32\d3dx9_30.dll
+03/31/24 17:13:11: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX3831.tmp\XACT2_1_x64.inf [DefaultInstall]
+03/31/24 17:13:11: infinst: Installed file C:\Windows\system32\xactengine2_1.dll
+03/31/24 17:13:11: infinst: Target file: 'C:\Windows\system32\x3daudio1_0.dll' 
+	Target file is Version 9.11.519.0
+	Source file is Version 9.11.519.0
+03/31/24 17:13:11: infinst: C:\Windows\system32\x3daudio1_0.dll have been installed already.
+03/31/24 17:13:11: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX3831.tmp\xinput1_1_x64.inf [Install_Driver]
+03/31/24 17:13:11: infinst: Installed file C:\Windows\system32\xinput1_1.dll
+03/31/24 17:13:11: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX3831.tmp\XACT2_2_x64.inf [DefaultInstall]
+03/31/24 17:13:11: infinst: Installed file C:\Windows\system32\xactengine2_2.dll
+03/31/24 17:13:11: infinst: Target file: 'C:\Windows\system32\x3daudio1_0.dll' 
+	Target file is Version 9.11.519.0
+	Source file is Version 9.11.519.0
+03/31/24 17:13:11: infinst: C:\Windows\system32\x3daudio1_0.dll have been installed already.
+03/31/24 17:13:11: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX3831.tmp\xinput1_2_x64.inf [Install_Driver]
+03/31/24 17:13:11: infinst: Installed file C:\Windows\system32\xinput1_2.dll
+03/31/24 17:13:11: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX3831.tmp\XACT2_3_x64.inf [DefaultInstall]
+03/31/24 17:13:11: infinst: Installed file C:\Windows\system32\xactengine2_3.dll
+03/31/24 17:13:11: infinst: Target file: 'C:\Windows\system32\x3daudio1_0.dll' 
+	Target file is Version 9.11.519.0
+	Source file is Version 9.11.519.0
+03/31/24 17:13:11: infinst: C:\Windows\system32\x3daudio1_0.dll have been installed already.
+03/31/24 17:13:11: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX3831.tmp\d3dx9_31_x64.inf [DefaultInstall]
+03/31/24 17:13:11: infinst: Installed file C:\Windows\system32\d3dx9_31.dll
+03/31/24 17:13:11: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX3831.tmp\XACT2_4_x64.inf [DefaultInstall]
+03/31/24 17:13:11: infinst: Installed file C:\Windows\system32\xactengine2_4.dll
+03/31/24 17:13:11: infinst: Installed file C:\Windows\system32\x3daudio1_1.dll
+03/31/24 17:13:12: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX3831.tmp\d3dx9_32_x64.inf [DefaultInstall]
+03/31/24 17:13:12: infinst: Installed file C:\Windows\system32\d3dx9_32.dll
+03/31/24 17:13:12: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX3831.tmp\d3dx10_00_x64.inf [DefaultInstall]
+03/31/24 17:13:12: infinst: Installed file C:\Windows\system32\d3dx10.dll
+03/31/24 17:13:12: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX3831.tmp\XACT2_5_x64.inf [DefaultInstall]
+03/31/24 17:13:12: infinst: Installed file C:\Windows\system32\xactengine2_5.dll
+03/31/24 17:13:12: infinst: Target file: 'C:\Windows\system32\x3daudio1_1.dll' 
+	Target file is Version 9.15.779.0
+	Source file is Version 9.15.779.0
+03/31/24 17:13:12: infinst: Installed file C:\Windows\system32\x3daudio1_1.dll
+03/31/24 17:13:12: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX3831.tmp\XACT2_6_x64.inf [DefaultInstall]
+03/31/24 17:13:12: infinst: Installed file C:\Windows\system32\xactengine2_6.dll
+03/31/24 17:13:12: infinst: Target file: 'C:\Windows\system32\x3daudio1_1.dll' 
+	Target file is Version 9.15.779.0
+	Source file is Version 9.15.779.0
+03/31/24 17:13:12: infinst: Installed file C:\Windows\system32\x3daudio1_1.dll
+03/31/24 17:13:12: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX3831.tmp\d3dx9_33_x64.inf [DefaultInstall]
+03/31/24 17:13:12: infinst: Installed file C:\Windows\system32\d3dx9_33.dll
+03/31/24 17:13:12: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX3831.tmp\d3dx10_33_x64.inf [DefaultInstall]
+03/31/24 17:13:12: infinst: Installed file C:\Windows\system32\d3dx10_33.dll
+03/31/24 17:13:12: infinst: Installed file C:\Windows\system32\D3DCompiler_33.dll
+03/31/24 17:13:12: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX3831.tmp\XACT2_7_x64.inf [DefaultInstall]
+03/31/24 17:13:12: infinst: Installed file C:\Windows\system32\xactengine2_7.dll
+03/31/24 17:13:12: infinst: Target file: 'C:\Windows\system32\x3daudio1_1.dll' 
+	Target file is Version 9.15.779.0
+	Source file is Version 9.15.779.0
+03/31/24 17:13:12: infinst: Installed file C:\Windows\system32\x3daudio1_1.dll
+03/31/24 17:13:12: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX3831.tmp\xinput1_3_x64.inf [Install_Driver]
+03/31/24 17:13:12: infinst: Installed file C:\Windows\system32\xinput1_3.dll
+03/31/24 17:13:12: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX3831.tmp\d3dx9_34_x64.inf [DefaultInstall]
+03/31/24 17:13:12: infinst: Installed file C:\Windows\system32\d3dx9_34.dll
+03/31/24 17:13:12: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX3831.tmp\d3dx10_34_x64.inf [DefaultInstall]
+03/31/24 17:13:12: infinst: Installed file C:\Windows\system32\d3dx10_34.dll
+03/31/24 17:13:12: infinst: Installed file C:\Windows\system32\D3DCompiler_34.dll
+03/31/24 17:13:12: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX3831.tmp\XACT2_8_x64.inf [DefaultInstall]
+03/31/24 17:13:12: infinst: Installed file C:\Windows\system32\xactengine2_8.dll
+03/31/24 17:13:12: infinst: Installed file C:\Windows\system32\x3daudio1_2.dll
+03/31/24 17:13:13: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX3831.tmp\d3dx9_35_x64.inf [DefaultInstall]
+03/31/24 17:13:13: infinst: Installed file C:\Windows\system32\d3dx9_35.dll
+03/31/24 17:13:13: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX3831.tmp\d3dx10_35_x64.inf [DefaultInstall]
+03/31/24 17:13:13: infinst: Installed file C:\Windows\system32\d3dx10_35.dll
+03/31/24 17:13:13: infinst: Installed file C:\Windows\system32\D3DCompiler_35.dll
+03/31/24 17:13:13: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX3831.tmp\XACT2_9_x64.inf [DefaultInstall]
+03/31/24 17:13:13: infinst: Installed file C:\Windows\system32\xactengine2_9.dll
+03/31/24 17:13:13: infinst: Target file: 'C:\Windows\system32\x3daudio1_2.dll' 
+	Target file is Version 9.19.1007.0
+	Source file is Version 9.20.1057.0
+03/31/24 17:13:13: infinst: Installed file C:\Windows\system32\x3daudio1_2.dll
+03/31/24 17:13:13: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX3831.tmp\d3dx9_36_x64.inf [DefaultInstall]
+03/31/24 17:13:13: infinst: Installed file C:\Windows\system32\d3dx9_36.dll
+03/31/24 17:13:13: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX3831.tmp\d3dx10_36_x64.inf [DefaultInstall]
+03/31/24 17:13:13: infinst: Installed file C:\Windows\system32\d3dx10_36.dll
+03/31/24 17:13:13: infinst: Installed file C:\Windows\system32\D3DCompiler_36.dll
+03/31/24 17:13:13: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX3831.tmp\X3DAudio1_2_x64.inf [DefaultInstall]
+03/31/24 17:13:13: infinst: Target file: 'C:\Windows\system32\X3DAudio1_2.dll' 
+	Target file is Version 9.20.1057.0
+	Source file is Version 9.21.1148.0
+03/31/24 17:13:13: infinst: Installed file C:\Windows\system32\X3DAudio1_2.dll
+03/31/24 17:13:13: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX3831.tmp\XACT2_10_x64.inf [DefaultInstall]
+03/31/24 17:13:13: infinst: Installed file C:\Windows\system32\xactengine2_10.dll
+03/31/24 17:13:13: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX3831.tmp\D3DX9_37_x64.inf [DefaultInstall]
+03/31/24 17:13:13: infinst: Installed file C:\Windows\system32\D3DX9_37.dll
+03/31/24 17:13:13: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX3831.tmp\d3dx10_37_x64.inf [DefaultInstall]
+03/31/24 17:13:13: infinst: Installed file C:\Windows\system32\d3dx10_37.dll
+03/31/24 17:13:13: infinst: Installed file C:\Windows\system32\D3DCompiler_37.dll
+03/31/24 17:13:13: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX3831.tmp\X3DAudio1_3_x64.inf [DefaultInstall]
+03/31/24 17:13:13: infinst: Installed file C:\Windows\system32\X3DAudio1_3.dll
+03/31/24 17:13:13: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX3831.tmp\XACT3_0_x64.inf [DefaultInstall]
+03/31/24 17:13:13: infinst: Installed file C:\Windows\system32\xactengine3_0.dll
+03/31/24 17:13:14: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX3831.tmp\XAudio2_0_x64.inf [DefaultInstall]
+03/31/24 17:13:14: infinst: Installed file C:\Windows\system32\XAudio2_0.dll
+04/01/24 20:37:55: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX8D10.tmp\d3dx9_24_x64.inf [DefaultInstall]
+04/01/24 20:37:55: infinst: Target file: 'C:\Windows\system32\d3dx9_24.dll' 
+	Target file is Version 9.5.132.0
+	Source file is Version 9.5.132.0
+04/01/24 20:37:55: infinst: Currently C:\Windows\system32\d3dx9_24.dll is newer than the one being installed.
+04/01/24 20:37:55: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX8D10.tmp\d3dx9_25_x64.inf [DefaultInstall]
+04/01/24 20:37:55: infinst: Target file: 'C:\Windows\system32\d3dx9_25.dll' 
+	Target file is Version 9.6.168.0
+	Source file is Version 9.6.168.0
+04/01/24 20:37:55: infinst: Currently C:\Windows\system32\d3dx9_25.dll is newer than the one being installed.
+04/01/24 20:37:55: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX8D10.tmp\d3dx9_26_x64.inf [DefaultInstall]
+04/01/24 20:37:55: infinst: Target file: 'C:\Windows\system32\d3dx9_26.dll' 
+	Target file is Version 9.7.239.0
+	Source file is Version 9.7.239.0
+04/01/24 20:37:55: infinst: Currently C:\Windows\system32\d3dx9_26.dll is newer than the one being installed.
+04/01/24 20:37:55: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX8D10.tmp\d3dx9_27_x64.inf [DefaultInstall]
+04/01/24 20:37:55: infinst: Target file: 'C:\Windows\system32\d3dx9_27.dll' 
+	Target file is Version 9.8.299.0
+	Source file is Version 9.8.299.0
+04/01/24 20:37:55: infinst: Currently C:\Windows\system32\d3dx9_27.dll is newer than the one being installed.
+04/01/24 20:37:56: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX8D10.tmp\d3dx9_28_x64.inf [DefaultInstall]
+04/01/24 20:37:56: infinst: Target file: 'C:\Windows\system32\d3dx9_28.dll' 
+	Target file is Version 9.10.455.0
+	Source file is Version 9.10.455.0
+04/01/24 20:37:56: infinst: Currently C:\Windows\system32\d3dx9_28.dll is newer than the one being installed.
+04/01/24 20:37:56: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX8D10.tmp\d3dx9_29_x64.inf [DefaultInstall]
+04/01/24 20:37:56: infinst: Target file: 'C:\Windows\system32\d3dx9_29.dll' 
+	Target file is Version 9.11.519.0
+	Source file is Version 9.11.519.0
+04/01/24 20:37:56: infinst: Currently C:\Windows\system32\d3dx9_29.dll is newer than the one being installed.
+04/01/24 20:37:56: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX8D10.tmp\XACT_x64.inf [DefaultInstall]
+04/01/24 20:37:56: infinst: Target file: 'C:\Windows\system32\xactengine2_0.dll' 
+	Target file is Version 9.11.519.0
+	Source file is Version 9.11.519.0
+04/01/24 20:37:56: infinst: Currently C:\Windows\system32\xactengine2_0.dll is newer than the one being installed.
+04/01/24 20:37:56: infinst: Target file: 'C:\Windows\system32\x3daudio1_0.dll' 
+	Target file is Version 9.11.519.0
+	Source file is Version 9.11.519.0
+04/01/24 20:37:56: infinst: Currently C:\Windows\system32\x3daudio1_0.dll is newer than the one being installed.
+04/01/24 20:37:56: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX8D10.tmp\d3dx9_30_x64.inf [DefaultInstall]
+04/01/24 20:37:56: infinst: Target file: 'C:\Windows\system32\d3dx9_30.dll' 
+	Target file is Version 9.12.589.0
+	Source file is Version 9.12.589.0
+04/01/24 20:37:56: infinst: Currently C:\Windows\system32\d3dx9_30.dll is newer than the one being installed.
+04/01/24 20:37:56: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX8D10.tmp\XACT2_1_x64.inf [DefaultInstall]
+04/01/24 20:37:56: infinst: Target file: 'C:\Windows\system32\xactengine2_1.dll' 
+	Target file is Version 9.12.589.0
+	Source file is Version 9.12.589.0
+04/01/24 20:37:56: infinst: Currently C:\Windows\system32\xactengine2_1.dll is newer than the one being installed.
+04/01/24 20:37:56: infinst: Target file: 'C:\Windows\system32\x3daudio1_0.dll' 
+	Target file is Version 9.11.519.0
+	Source file is Version 9.11.519.0
+04/01/24 20:37:56: infinst: Currently C:\Windows\system32\x3daudio1_0.dll is newer than the one being installed.
+04/01/24 20:37:56: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX8D10.tmp\xinput1_1_x64.inf [Install_Driver]
+04/01/24 20:37:56: infinst: Target file: 'C:\Windows\system32\xinput1_1.dll' 
+	Target file is Version 9.12.589.0
+	Source file is Version 9.12.589.0
+04/01/24 20:37:56: infinst: Currently C:\Windows\system32\xinput1_1.dll is newer than the one being installed.
+04/01/24 20:37:56: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX8D10.tmp\XACT2_2_x64.inf [DefaultInstall]
+04/01/24 20:37:56: infinst: Target file: 'C:\Windows\system32\xactengine2_2.dll' 
+	Target file is Version 9.13.644.0
+	Source file is Version 9.13.644.0
+04/01/24 20:37:56: infinst: Currently C:\Windows\system32\xactengine2_2.dll is newer than the one being installed.
+04/01/24 20:37:56: infinst: Target file: 'C:\Windows\system32\x3daudio1_0.dll' 
+	Target file is Version 9.11.519.0
+	Source file is Version 9.11.519.0
+04/01/24 20:37:56: infinst: Currently C:\Windows\system32\x3daudio1_0.dll is newer than the one being installed.
+04/01/24 20:37:56: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX8D10.tmp\xinput1_2_x64.inf [Install_Driver]
+04/01/24 20:37:56: infinst: Target file: 'C:\Windows\system32\xinput1_2.dll' 
+	Target file is Version 9.14.701.0
+	Source file is Version 9.14.701.0
+04/01/24 20:37:56: infinst: Currently C:\Windows\system32\xinput1_2.dll is newer than the one being installed.
+04/01/24 20:37:56: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX8D10.tmp\XACT2_3_x64.inf [DefaultInstall]
+04/01/24 20:37:56: infinst: Target file: 'C:\Windows\system32\xactengine2_3.dll' 
+	Target file is Version 9.14.701.0
+	Source file is Version 9.14.701.0
+04/01/24 20:37:56: infinst: Currently C:\Windows\system32\xactengine2_3.dll is newer than the one being installed.
+04/01/24 20:37:56: infinst: Target file: 'C:\Windows\system32\x3daudio1_0.dll' 
+	Target file is Version 9.11.519.0
+	Source file is Version 9.11.519.0
+04/01/24 20:37:56: infinst: Currently C:\Windows\system32\x3daudio1_0.dll is newer than the one being installed.
+04/01/24 20:37:57: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX8D10.tmp\d3dx9_31_x64.inf [DefaultInstall]
+04/01/24 20:37:57: infinst: Target file: 'C:\Windows\system32\d3dx9_31.dll' 
+	Target file is Version 9.15.779.0
+	Source file is Version 9.15.779.0
+04/01/24 20:37:57: infinst: Currently C:\Windows\system32\d3dx9_31.dll is newer than the one being installed.
+04/01/24 20:37:57: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX8D10.tmp\XACT2_4_x64.inf [DefaultInstall]
+04/01/24 20:37:57: infinst: Target file: 'C:\Windows\system32\xactengine2_4.dll' 
+	Target file is Version 9.15.779.0
+	Source file is Version 9.15.779.0
+04/01/24 20:37:57: infinst: Currently C:\Windows\system32\xactengine2_4.dll is newer than the one being installed.
+04/01/24 20:37:57: infinst: Target file: 'C:\Windows\system32\x3daudio1_1.dll' 
+	Target file is Version 9.15.779.0
+	Source file is Version 9.15.779.0
+04/01/24 20:37:57: infinst: Currently C:\Windows\system32\x3daudio1_1.dll is newer than the one being installed.
+04/01/24 20:37:57: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX8D10.tmp\d3dx9_32_x64.inf [DefaultInstall]
+04/01/24 20:37:57: infinst: Target file: 'C:\Windows\system32\d3dx9_32.dll' 
+	Target file is Version 9.16.843.0
+	Source file is Version 9.16.843.0
+04/01/24 20:37:57: infinst: Currently C:\Windows\system32\d3dx9_32.dll is newer than the one being installed.
+04/01/24 20:37:57: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX8D10.tmp\d3dx10_00_x64.inf [DefaultInstall]
+04/01/24 20:37:57: infinst: Target file: 'C:\Windows\system32\d3dx10.dll' 
+	Target file is Version 9.16.843.0
+	Source file is Version 9.16.843.0
+04/01/24 20:37:57: infinst: Currently C:\Windows\system32\d3dx10.dll is newer than the one being installed.
+04/01/24 20:37:57: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX8D10.tmp\XACT2_5_x64.inf [DefaultInstall]
+04/01/24 20:37:57: infinst: Target file: 'C:\Windows\system32\xactengine2_5.dll' 
+	Target file is Version 9.16.857.0
+	Source file is Version 9.16.857.0
+04/01/24 20:37:57: infinst: Currently C:\Windows\system32\xactengine2_5.dll is newer than the one being installed.
+04/01/24 20:37:57: infinst: Target file: 'C:\Windows\system32\x3daudio1_1.dll' 
+	Target file is Version 9.15.779.0
+	Source file is Version 9.15.779.0
+04/01/24 20:37:57: infinst: Currently C:\Windows\system32\x3daudio1_1.dll is newer than the one being installed.
+04/01/24 20:37:57: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX8D10.tmp\XACT2_6_x64.inf [DefaultInstall]
+04/01/24 20:37:57: infinst: Target file: 'C:\Windows\system32\xactengine2_6.dll' 
+	Target file is Version 9.17.892.0
+	Source file is Version 9.17.892.0
+04/01/24 20:37:57: infinst: Currently C:\Windows\system32\xactengine2_6.dll is newer than the one being installed.
+04/01/24 20:37:57: infinst: Target file: 'C:\Windows\system32\x3daudio1_1.dll' 
+	Target file is Version 9.15.779.0
+	Source file is Version 9.15.779.0
+04/01/24 20:37:57: infinst: Currently C:\Windows\system32\x3daudio1_1.dll is newer than the one being installed.
+04/01/24 20:37:57: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX8D10.tmp\d3dx9_33_x64.inf [DefaultInstall]
+04/01/24 20:37:57: infinst: Target file: 'C:\Windows\system32\d3dx9_33.dll' 
+	Target file is Version 9.18.904.15
+	Source file is Version 9.18.904.15
+04/01/24 20:37:57: infinst: Currently C:\Windows\system32\d3dx9_33.dll is newer than the one being installed.
+04/01/24 20:37:58: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX8D10.tmp\d3dx10_33_x64.inf [DefaultInstall]
+04/01/24 20:37:58: infinst: Target file: 'C:\Windows\system32\d3dx10_33.dll' 
+	Target file is Version 9.18.904.21
+	Source file is Version 9.18.904.21
+04/01/24 20:37:58: infinst: Currently C:\Windows\system32\d3dx10_33.dll is newer than the one being installed.
+04/01/24 20:37:58: infinst: Target file: 'C:\Windows\system32\D3DCompiler_33.dll' 
+	Target file is Version 9.18.904.15
+	Source file is Version 9.18.904.15
+04/01/24 20:37:58: infinst: Currently C:\Windows\system32\D3DCompiler_33.dll is newer than the one being installed.
+04/01/24 20:37:58: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX8D10.tmp\XACT2_7_x64.inf [DefaultInstall]
+04/01/24 20:37:58: infinst: Target file: 'C:\Windows\system32\xactengine2_7.dll' 
+	Target file is Version 9.18.944.0
+	Source file is Version 9.18.944.0
+04/01/24 20:37:58: infinst: Currently C:\Windows\system32\xactengine2_7.dll is newer than the one being installed.
+04/01/24 20:37:58: infinst: Target file: 'C:\Windows\system32\x3daudio1_1.dll' 
+	Target file is Version 9.15.779.0
+	Source file is Version 9.15.779.0
+04/01/24 20:37:58: infinst: Currently C:\Windows\system32\x3daudio1_1.dll is newer than the one being installed.
+04/01/24 20:37:58: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX8D10.tmp\xinput1_3_x64.inf [Install_Driver]
+04/01/24 20:37:58: infinst: Target file: 'C:\Windows\system32\xinput1_3.dll' 
+	Target file is Version 9.18.944.0
+	Source file is Version 9.18.944.0
+04/01/24 20:37:58: infinst: Currently C:\Windows\system32\xinput1_3.dll is newer than the one being installed.
+04/01/24 20:37:58: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX8D10.tmp\d3dx9_34_x64.inf [DefaultInstall]
+04/01/24 20:37:58: infinst: Target file: 'C:\Windows\system32\d3dx9_34.dll' 
+	Target file is Version 9.19.949.46
+	Source file is Version 9.19.949.46
+04/01/24 20:37:58: infinst: Currently C:\Windows\system32\d3dx9_34.dll is newer than the one being installed.
+04/01/24 20:37:58: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX8D10.tmp\d3dx10_34_x64.inf [DefaultInstall]
+04/01/24 20:37:58: infinst: Target file: 'C:\Windows\system32\d3dx10_34.dll' 
+	Target file is Version 9.19.949.46
+	Source file is Version 9.19.949.46
+04/01/24 20:37:58: infinst: Currently C:\Windows\system32\d3dx10_34.dll is newer than the one being installed.
+04/01/24 20:37:58: infinst: Target file: 'C:\Windows\system32\D3DCompiler_34.dll' 
+	Target file is Version 9.19.949.46
+	Source file is Version 9.19.949.46
+04/01/24 20:37:58: infinst: Currently C:\Windows\system32\D3DCompiler_34.dll is newer than the one being installed.
+04/01/24 20:37:58: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX8D10.tmp\XACT2_8_x64.inf [DefaultInstall]
+04/01/24 20:37:58: infinst: Target file: 'C:\Windows\system32\xactengine2_8.dll' 
+	Target file is Version 9.19.1007.0
+	Source file is Version 9.19.1007.0
+04/01/24 20:37:58: infinst: Currently C:\Windows\system32\xactengine2_8.dll is newer than the one being installed.
+04/01/24 20:37:58: infinst: Target file: 'C:\Windows\system32\x3daudio1_2.dll' 
+	Target file is Version 9.21.1148.0
+	Source file is Version 9.19.1007.0
+04/01/24 20:37:58: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX8D10.tmp\d3dx9_35_x64.inf [DefaultInstall]
+04/01/24 20:37:58: infinst: Target file: 'C:\Windows\system32\d3dx9_35.dll' 
+	Target file is Version 9.19.949.1104
+	Source file is Version 9.19.949.1104
+04/01/24 20:37:58: infinst: Currently C:\Windows\system32\d3dx9_35.dll is newer than the one being installed.
+04/01/24 20:37:59: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX8D10.tmp\d3dx10_35_x64.inf [DefaultInstall]
+04/01/24 20:37:59: infinst: Target file: 'C:\Windows\system32\d3dx10_35.dll' 
+	Target file is Version 9.19.949.1104
+	Source file is Version 9.19.949.1104
+04/01/24 20:37:59: infinst: Currently C:\Windows\system32\d3dx10_35.dll is newer than the one being installed.
+04/01/24 20:37:59: infinst: Target file: 'C:\Windows\system32\D3DCompiler_35.dll' 
+	Target file is Version 9.19.949.1104
+	Source file is Version 9.19.949.1104
+04/01/24 20:37:59: infinst: Currently C:\Windows\system32\D3DCompiler_35.dll is newer than the one being installed.
+04/01/24 20:37:59: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX8D10.tmp\XACT2_9_x64.inf [DefaultInstall]
+04/01/24 20:37:59: infinst: Target file: 'C:\Windows\system32\xactengine2_9.dll' 
+	Target file is Version 9.20.1057.0
+	Source file is Version 9.20.1057.0
+04/01/24 20:37:59: infinst: Currently C:\Windows\system32\xactengine2_9.dll is newer than the one being installed.
+04/01/24 20:37:59: infinst: Target file: 'C:\Windows\system32\x3daudio1_2.dll' 
+	Target file is Version 9.21.1148.0
+	Source file is Version 9.20.1057.0
+04/01/24 20:37:59: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX8D10.tmp\d3dx9_36_x64.inf [DefaultInstall]
+04/01/24 20:37:59: infinst: Target file: 'C:\Windows\system32\d3dx9_36.dll' 
+	Target file is Version 9.19.949.2111
+	Source file is Version 9.19.949.2111
+04/01/24 20:37:59: infinst: Currently C:\Windows\system32\d3dx9_36.dll is newer than the one being installed.
+04/01/24 20:37:59: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX8D10.tmp\d3dx10_36_x64.inf [DefaultInstall]
+04/01/24 20:37:59: infinst: Target file: 'C:\Windows\system32\d3dx10_36.dll' 
+	Target file is Version 9.19.949.2009
+	Source file is Version 9.19.949.2009
+04/01/24 20:37:59: infinst: Currently C:\Windows\system32\d3dx10_36.dll is newer than the one being installed.
+04/01/24 20:37:59: infinst: Target file: 'C:\Windows\system32\D3DCompiler_36.dll' 
+	Target file is Version 9.19.949.2111
+	Source file is Version 9.19.949.2111
+04/01/24 20:37:59: infinst: Currently C:\Windows\system32\D3DCompiler_36.dll is newer than the one being installed.
+04/01/24 20:37:59: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX8D10.tmp\X3DAudio1_2_x64.inf [DefaultInstall]
+04/01/24 20:37:59: infinst: Target file: 'C:\Windows\system32\X3DAudio1_2.dll' 
+	Target file is Version 9.21.1148.0
+	Source file is Version 9.21.1148.0
+04/01/24 20:37:59: infinst: Currently C:\Windows\system32\X3DAudio1_2.dll is newer than the one being installed.
+04/01/24 20:37:59: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX8D10.tmp\XACT2_10_x64.inf [DefaultInstall]
+04/01/24 20:37:59: infinst: Target file: 'C:\Windows\system32\xactengine2_10.dll' 
+	Target file is Version 9.21.1148.0
+	Source file is Version 9.21.1148.0
+04/01/24 20:37:59: infinst: Currently C:\Windows\system32\xactengine2_10.dll is newer than the one being installed.
+04/01/24 20:38:00: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX8D10.tmp\D3DX9_37_x64.inf [DefaultInstall]
+04/01/24 20:38:00: infinst: Target file: 'C:\Windows\system32\D3DX9_37.dll' 
+	Target file is Version 9.22.949.2248
+	Source file is Version 9.22.949.2248
+04/01/24 20:38:00: infinst: Currently C:\Windows\system32\D3DX9_37.dll is newer than the one being installed.
+04/01/24 20:38:00: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX8D10.tmp\d3dx10_37_x64.inf [DefaultInstall]
+04/01/24 20:38:00: infinst: Target file: 'C:\Windows\system32\d3dx10_37.dll' 
+	Target file is Version 9.19.949.2185
+	Source file is Version 9.19.949.2185
+04/01/24 20:38:00: infinst: Currently C:\Windows\system32\d3dx10_37.dll is newer than the one being installed.
+04/01/24 20:38:00: infinst: Target file: 'C:\Windows\system32\D3DCompiler_37.dll' 
+	Target file is Version 9.22.949.2248
+	Source file is Version 9.22.949.2248
+04/01/24 20:38:00: infinst: Currently C:\Windows\system32\D3DCompiler_37.dll is newer than the one being installed.
+04/01/24 20:38:00: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX8D10.tmp\X3DAudio1_3_x64.inf [DefaultInstall]
+04/01/24 20:38:00: infinst: Target file: 'C:\Windows\system32\X3DAudio1_3.dll' 
+	Target file is Version 9.22.1284.0
+	Source file is Version 9.22.1284.0
+04/01/24 20:38:00: infinst: Currently C:\Windows\system32\X3DAudio1_3.dll is newer than the one being installed.
+04/01/24 20:38:00: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX8D10.tmp\XACT3_0_x64.inf [DefaultInstall]
+04/01/24 20:38:00: infinst: Target file: 'C:\Windows\system32\xactengine3_0.dll' 
+	Target file is Version 9.22.1284.0
+	Source file is Version 9.22.1284.0
+04/01/24 20:38:00: infinst: Currently C:\Windows\system32\xactengine3_0.dll is newer than the one being installed.
+04/01/24 20:38:00: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX8D10.tmp\XAudio2_0_x64.inf [DefaultInstall]
+04/01/24 20:38:00: infinst: Target file: 'C:\Windows\system32\XAudio2_0.dll' 
+	Target file is Version 9.22.1284.0
+	Source file is Version 9.22.1284.0
+04/01/24 20:38:00: infinst: Currently C:\Windows\system32\XAudio2_0.dll is newer than the one being installed.
+04/12/24 11:29:33: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX3F93.tmp\xinput1_3_x64.inf [Install_Driver]
+04/12/24 11:29:33: infinst: Target file: 'C:\Windows\system32\xinput1_3.dll' 
+	Target file is Version 9.18.944.0
+	Source file is Version 9.18.944.0
+04/12/24 11:29:33: infinst: Currently C:\Windows\system32\xinput1_3.dll is newer than the one being installed.
+04/12/24 13:12:05: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX1118.tmp\d3dx9_24_x64.inf [DefaultInstall]
+04/12/24 13:12:05: infinst: Target file: 'C:\Windows\system32\d3dx9_24.dll' 
+	Target file is Version 9.5.132.0
+	Source file is Version 9.5.132.0
+04/12/24 13:12:05: infinst: Currently C:\Windows\system32\d3dx9_24.dll is newer than the one being installed.
+04/12/24 13:12:05: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX1118.tmp\d3dx9_25_x64.inf [DefaultInstall]
+04/12/24 13:12:05: infinst: Target file: 'C:\Windows\system32\d3dx9_25.dll' 
+	Target file is Version 9.6.168.0
+	Source file is Version 9.6.168.0
+04/12/24 13:12:05: infinst: Currently C:\Windows\system32\d3dx9_25.dll is newer than the one being installed.
+04/12/24 13:12:05: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX1118.tmp\d3dx9_26_x64.inf [DefaultInstall]
+04/12/24 13:12:05: infinst: Target file: 'C:\Windows\system32\d3dx9_26.dll' 
+	Target file is Version 9.7.239.0
+	Source file is Version 9.7.239.0
+04/12/24 13:12:05: infinst: Currently C:\Windows\system32\d3dx9_26.dll is newer than the one being installed.
+04/12/24 13:12:06: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX1118.tmp\d3dx9_27_x64.inf [DefaultInstall]
+04/12/24 13:12:06: infinst: Target file: 'C:\Windows\system32\d3dx9_27.dll' 
+	Target file is Version 9.8.299.0
+	Source file is Version 9.8.299.0
+04/12/24 13:12:06: infinst: Currently C:\Windows\system32\d3dx9_27.dll is newer than the one being installed.
+04/12/24 13:12:06: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX1118.tmp\d3dx9_28_x64.inf [DefaultInstall]
+04/12/24 13:12:06: infinst: Target file: 'C:\Windows\system32\d3dx9_28.dll' 
+	Target file is Version 9.10.455.0
+	Source file is Version 9.10.455.0
+04/12/24 13:12:06: infinst: Currently C:\Windows\system32\d3dx9_28.dll is newer than the one being installed.
+04/12/24 13:12:06: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX1118.tmp\d3dx9_29_x64.inf [DefaultInstall]
+04/12/24 13:12:06: infinst: Target file: 'C:\Windows\system32\d3dx9_29.dll' 
+	Target file is Version 9.11.519.0
+	Source file is Version 9.11.519.0
+04/12/24 13:12:06: infinst: Currently C:\Windows\system32\d3dx9_29.dll is newer than the one being installed.
+04/12/24 13:12:06: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX1118.tmp\XACT_x64.inf [DefaultInstall]
+04/12/24 13:12:06: infinst: Target file: 'C:\Windows\system32\xactengine2_0.dll' 
+	Target file is Version 9.11.519.0
+	Source file is Version 9.11.519.0
+04/12/24 13:12:06: infinst: Currently C:\Windows\system32\xactengine2_0.dll is newer than the one being installed.
+04/12/24 13:12:06: infinst: Target file: 'C:\Windows\system32\x3daudio1_0.dll' 
+	Target file is Version 9.11.519.0
+	Source file is Version 9.11.519.0
+04/12/24 13:12:06: infinst: Currently C:\Windows\system32\x3daudio1_0.dll is newer than the one being installed.
+04/12/24 13:12:06: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX1118.tmp\d3dx9_30_x64.inf [DefaultInstall]
+04/12/24 13:12:06: infinst: Target file: 'C:\Windows\system32\d3dx9_30.dll' 
+	Target file is Version 9.12.589.0
+	Source file is Version 9.12.589.0
+04/12/24 13:12:06: infinst: Currently C:\Windows\system32\d3dx9_30.dll is newer than the one being installed.
+04/12/24 13:12:06: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX1118.tmp\XACT2_1_x64.inf [DefaultInstall]
+04/12/24 13:12:06: infinst: Target file: 'C:\Windows\system32\xactengine2_1.dll' 
+	Target file is Version 9.12.589.0
+	Source file is Version 9.12.589.0
+04/12/24 13:12:06: infinst: Currently C:\Windows\system32\xactengine2_1.dll is newer than the one being installed.
+04/12/24 13:12:06: infinst: Target file: 'C:\Windows\system32\x3daudio1_0.dll' 
+	Target file is Version 9.11.519.0
+	Source file is Version 9.11.519.0
+04/12/24 13:12:06: infinst: Currently C:\Windows\system32\x3daudio1_0.dll is newer than the one being installed.
+04/12/24 13:12:06: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX1118.tmp\xinput1_1_x64.inf [Install_Driver]
+04/12/24 13:12:06: infinst: Target file: 'C:\Windows\system32\xinput1_1.dll' 
+	Target file is Version 9.12.589.0
+	Source file is Version 9.12.589.0
+04/12/24 13:12:06: infinst: Currently C:\Windows\system32\xinput1_1.dll is newer than the one being installed.
+04/12/24 13:12:06: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX1118.tmp\XACT2_2_x64.inf [DefaultInstall]
+04/12/24 13:12:06: infinst: Target file: 'C:\Windows\system32\xactengine2_2.dll' 
+	Target file is Version 9.13.644.0
+	Source file is Version 9.13.644.0
+04/12/24 13:12:06: infinst: Currently C:\Windows\system32\xactengine2_2.dll is newer than the one being installed.
+04/12/24 13:12:06: infinst: Target file: 'C:\Windows\system32\x3daudio1_0.dll' 
+	Target file is Version 9.11.519.0
+	Source file is Version 9.11.519.0
+04/12/24 13:12:06: infinst: Currently C:\Windows\system32\x3daudio1_0.dll is newer than the one being installed.
+04/12/24 13:12:06: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX1118.tmp\xinput1_2_x64.inf [Install_Driver]
+04/12/24 13:12:06: infinst: Target file: 'C:\Windows\system32\xinput1_2.dll' 
+	Target file is Version 9.14.701.0
+	Source file is Version 9.14.701.0
+04/12/24 13:12:06: infinst: Currently C:\Windows\system32\xinput1_2.dll is newer than the one being installed.
+04/12/24 13:12:06: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX1118.tmp\XACT2_3_x64.inf [DefaultInstall]
+04/12/24 13:12:06: infinst: Target file: 'C:\Windows\system32\xactengine2_3.dll' 
+	Target file is Version 9.14.701.0
+	Source file is Version 9.14.701.0
+04/12/24 13:12:07: infinst: Currently C:\Windows\system32\xactengine2_3.dll is newer than the one being installed.
+04/12/24 13:12:07: infinst: Target file: 'C:\Windows\system32\x3daudio1_0.dll' 
+	Target file is Version 9.11.519.0
+	Source file is Version 9.11.519.0
+04/12/24 13:12:07: infinst: Currently C:\Windows\system32\x3daudio1_0.dll is newer than the one being installed.
+04/12/24 13:12:07: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX1118.tmp\d3dx9_31_x64.inf [DefaultInstall]
+04/12/24 13:12:07: infinst: Target file: 'C:\Windows\system32\d3dx9_31.dll' 
+	Target file is Version 9.15.779.0
+	Source file is Version 9.15.779.0
+04/12/24 13:12:07: infinst: Currently C:\Windows\system32\d3dx9_31.dll is newer than the one being installed.
+04/12/24 13:12:07: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX1118.tmp\XACT2_4_x64.inf [DefaultInstall]
+04/12/24 13:12:07: infinst: Target file: 'C:\Windows\system32\xactengine2_4.dll' 
+	Target file is Version 9.15.779.0
+	Source file is Version 9.15.779.0
+04/12/24 13:12:07: infinst: Currently C:\Windows\system32\xactengine2_4.dll is newer than the one being installed.
+04/12/24 13:12:07: infinst: Target file: 'C:\Windows\system32\x3daudio1_1.dll' 
+	Target file is Version 9.15.779.0
+	Source file is Version 9.15.779.0
+04/12/24 13:12:07: infinst: Currently C:\Windows\system32\x3daudio1_1.dll is newer than the one being installed.
+04/12/24 13:12:07: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX1118.tmp\d3dx9_32_x64.inf [DefaultInstall]
+04/12/24 13:12:07: infinst: Target file: 'C:\Windows\system32\d3dx9_32.dll' 
+	Target file is Version 9.16.843.0
+	Source file is Version 9.16.843.0
+04/12/24 13:12:07: infinst: Currently C:\Windows\system32\d3dx9_32.dll is newer than the one being installed.
+04/12/24 13:12:07: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX1118.tmp\d3dx10_00_x64.inf [DefaultInstall]
+04/12/24 13:12:07: infinst: Target file: 'C:\Windows\system32\d3dx10.dll' 
+	Target file is Version 9.16.843.0
+	Source file is Version 9.16.843.0
+04/12/24 13:12:07: infinst: Currently C:\Windows\system32\d3dx10.dll is newer than the one being installed.
+04/12/24 13:12:07: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX1118.tmp\XACT2_5_x64.inf [DefaultInstall]
+04/12/24 13:12:07: infinst: Target file: 'C:\Windows\system32\xactengine2_5.dll' 
+	Target file is Version 9.16.857.0
+	Source file is Version 9.16.857.0
+04/12/24 13:12:07: infinst: Currently C:\Windows\system32\xactengine2_5.dll is newer than the one being installed.
+04/12/24 13:12:07: infinst: Target file: 'C:\Windows\system32\x3daudio1_1.dll' 
+	Target file is Version 9.15.779.0
+	Source file is Version 9.15.779.0
+04/12/24 13:12:07: infinst: Currently C:\Windows\system32\x3daudio1_1.dll is newer than the one being installed.
+04/12/24 13:12:07: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX1118.tmp\XACT2_6_x64.inf [DefaultInstall]
+04/12/24 13:12:07: infinst: Target file: 'C:\Windows\system32\xactengine2_6.dll' 
+	Target file is Version 9.17.892.0
+	Source file is Version 9.17.892.0
+04/12/24 13:12:07: infinst: Currently C:\Windows\system32\xactengine2_6.dll is newer than the one being installed.
+04/12/24 13:12:07: infinst: Target file: 'C:\Windows\system32\x3daudio1_1.dll' 
+	Target file is Version 9.15.779.0
+	Source file is Version 9.15.779.0
+04/12/24 13:12:07: infinst: Currently C:\Windows\system32\x3daudio1_1.dll is newer than the one being installed.
+04/12/24 13:12:07: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX1118.tmp\d3dx9_33_x64.inf [DefaultInstall]
+04/12/24 13:12:07: infinst: Target file: 'C:\Windows\system32\d3dx9_33.dll' 
+	Target file is Version 9.18.904.15
+	Source file is Version 9.18.904.15
+04/12/24 13:12:07: infinst: Currently C:\Windows\system32\d3dx9_33.dll is newer than the one being installed.
+04/12/24 13:12:07: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX1118.tmp\d3dx10_33_x64.inf [DefaultInstall]
+04/12/24 13:12:07: infinst: Target file: 'C:\Windows\system32\d3dx10_33.dll' 
+	Target file is Version 9.18.904.21
+	Source file is Version 9.18.904.21
+04/12/24 13:12:07: infinst: Currently C:\Windows\system32\d3dx10_33.dll is newer than the one being installed.
+04/12/24 13:12:07: infinst: Target file: 'C:\Windows\system32\D3DCompiler_33.dll' 
+	Target file is Version 9.18.904.15
+	Source file is Version 9.18.904.15
+04/12/24 13:12:07: infinst: Currently C:\Windows\system32\D3DCompiler_33.dll is newer than the one being installed.
+04/12/24 13:12:07: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX1118.tmp\XACT2_7_x64.inf [DefaultInstall]
+04/12/24 13:12:07: infinst: Target file: 'C:\Windows\system32\xactengine2_7.dll' 
+	Target file is Version 9.18.944.0
+	Source file is Version 9.18.944.0
+04/12/24 13:12:07: infinst: Currently C:\Windows\system32\xactengine2_7.dll is newer than the one being installed.
+04/12/24 13:12:07: infinst: Target file: 'C:\Windows\system32\x3daudio1_1.dll' 
+	Target file is Version 9.15.779.0
+	Source file is Version 9.15.779.0
+04/12/24 13:12:07: infinst: Currently C:\Windows\system32\x3daudio1_1.dll is newer than the one being installed.
+04/12/24 13:12:08: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX1118.tmp\xinput1_3_x64.inf [Install_Driver]
+04/12/24 13:12:08: infinst: Target file: 'C:\Windows\system32\xinput1_3.dll' 
+	Target file is Version 9.18.944.0
+	Source file is Version 9.18.944.0
+04/12/24 13:12:08: infinst: Currently C:\Windows\system32\xinput1_3.dll is newer than the one being installed.
+04/12/24 13:12:08: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX1118.tmp\d3dx9_34_x64.inf [DefaultInstall]
+04/12/24 13:12:08: infinst: Target file: 'C:\Windows\system32\d3dx9_34.dll' 
+	Target file is Version 9.19.949.46
+	Source file is Version 9.19.949.46
+04/12/24 13:12:08: infinst: Currently C:\Windows\system32\d3dx9_34.dll is newer than the one being installed.
+04/12/24 13:12:08: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX1118.tmp\d3dx10_34_x64.inf [DefaultInstall]
+04/12/24 13:12:08: infinst: Target file: 'C:\Windows\system32\d3dx10_34.dll' 
+	Target file is Version 9.19.949.46
+	Source file is Version 9.19.949.46
+04/12/24 13:12:08: infinst: Currently C:\Windows\system32\d3dx10_34.dll is newer than the one being installed.
+04/12/24 13:12:08: infinst: Target file: 'C:\Windows\system32\D3DCompiler_34.dll' 
+	Target file is Version 9.19.949.46
+	Source file is Version 9.19.949.46
+04/12/24 13:12:08: infinst: Currently C:\Windows\system32\D3DCompiler_34.dll is newer than the one being installed.
+04/12/24 13:12:08: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX1118.tmp\XACT2_8_x64.inf [DefaultInstall]
+04/12/24 13:12:08: infinst: Target file: 'C:\Windows\system32\xactengine2_8.dll' 
+	Target file is Version 9.19.1007.0
+	Source file is Version 9.19.1007.0
+04/12/24 13:12:08: infinst: Currently C:\Windows\system32\xactengine2_8.dll is newer than the one being installed.
+04/12/24 13:12:08: infinst: Target file: 'C:\Windows\system32\x3daudio1_2.dll' 
+	Target file is Version 9.21.1148.0
+	Source file is Version 9.19.1007.0
+04/12/24 13:12:08: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX1118.tmp\d3dx9_35_x64.inf [DefaultInstall]
+04/12/24 13:12:08: infinst: Target file: 'C:\Windows\system32\d3dx9_35.dll' 
+	Target file is Version 9.19.949.1104
+	Source file is Version 9.19.949.1104
+04/12/24 13:12:08: infinst: Currently C:\Windows\system32\d3dx9_35.dll is newer than the one being installed.
+04/12/24 13:12:08: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX1118.tmp\d3dx10_35_x64.inf [DefaultInstall]
+04/12/24 13:12:08: infinst: Target file: 'C:\Windows\system32\d3dx10_35.dll' 
+	Target file is Version 9.19.949.1104
+	Source file is Version 9.19.949.1104
+04/12/24 13:12:08: infinst: Currently C:\Windows\system32\d3dx10_35.dll is newer than the one being installed.
+04/12/24 13:12:08: infinst: Target file: 'C:\Windows\system32\D3DCompiler_35.dll' 
+	Target file is Version 9.19.949.1104
+	Source file is Version 9.19.949.1104
+04/12/24 13:12:08: infinst: Currently C:\Windows\system32\D3DCompiler_35.dll is newer than the one being installed.
+04/12/24 13:12:08: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX1118.tmp\XACT2_9_x64.inf [DefaultInstall]
+04/12/24 13:12:08: infinst: Target file: 'C:\Windows\system32\xactengine2_9.dll' 
+	Target file is Version 9.20.1057.0
+	Source file is Version 9.20.1057.0
+04/12/24 13:12:08: infinst: Currently C:\Windows\system32\xactengine2_9.dll is newer than the one being installed.
+04/12/24 13:12:08: infinst: Target file: 'C:\Windows\system32\x3daudio1_2.dll' 
+	Target file is Version 9.21.1148.0
+	Source file is Version 9.20.1057.0
+04/12/24 13:12:09: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX1118.tmp\d3dx9_36_x64.inf [DefaultInstall]
+04/12/24 13:12:09: infinst: Target file: 'C:\Windows\system32\d3dx9_36.dll' 
+	Target file is Version 9.19.949.2111
+	Source file is Version 9.19.949.2111
+04/12/24 13:12:09: infinst: Currently C:\Windows\system32\d3dx9_36.dll is newer than the one being installed.
+04/12/24 13:12:09: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX1118.tmp\d3dx10_36_x64.inf [DefaultInstall]
+04/12/24 13:12:09: infinst: Target file: 'C:\Windows\system32\d3dx10_36.dll' 
+	Target file is Version 9.19.949.2009
+	Source file is Version 9.19.949.2009
+04/12/24 13:12:09: infinst: Currently C:\Windows\system32\d3dx10_36.dll is newer than the one being installed.
+04/12/24 13:12:09: infinst: Target file: 'C:\Windows\system32\D3DCompiler_36.dll' 
+	Target file is Version 9.19.949.2111
+	Source file is Version 9.19.949.2111
+04/12/24 13:12:09: infinst: Currently C:\Windows\system32\D3DCompiler_36.dll is newer than the one being installed.
+04/12/24 13:12:09: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX1118.tmp\X3DAudio1_2_x64.inf [DefaultInstall]
+04/12/24 13:12:09: infinst: Target file: 'C:\Windows\system32\X3DAudio1_2.dll' 
+	Target file is Version 9.21.1148.0
+	Source file is Version 9.21.1148.0
+04/12/24 13:12:09: infinst: Currently C:\Windows\system32\X3DAudio1_2.dll is newer than the one being installed.
+04/12/24 13:12:09: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX1118.tmp\XACT2_10_x64.inf [DefaultInstall]
+04/12/24 13:12:09: infinst: Target file: 'C:\Windows\system32\xactengine2_10.dll' 
+	Target file is Version 9.21.1148.0
+	Source file is Version 9.21.1148.0
+04/12/24 13:12:09: infinst: Currently C:\Windows\system32\xactengine2_10.dll is newer than the one being installed.
+04/12/24 13:12:09: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX1118.tmp\D3DX9_37_x64.inf [DefaultInstall]
+04/12/24 13:12:09: infinst: Target file: 'C:\Windows\system32\D3DX9_37.dll' 
+	Target file is Version 9.22.949.2248
+	Source file is Version 9.22.949.2248
+04/12/24 13:12:09: infinst: Currently C:\Windows\system32\D3DX9_37.dll is newer than the one being installed.
+04/12/24 13:12:09: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX1118.tmp\d3dx10_37_x64.inf [DefaultInstall]
+04/12/24 13:12:09: infinst: Target file: 'C:\Windows\system32\d3dx10_37.dll' 
+	Target file is Version 9.19.949.2185
+	Source file is Version 9.19.949.2185
+04/12/24 13:12:09: infinst: Currently C:\Windows\system32\d3dx10_37.dll is newer than the one being installed.
+04/12/24 13:12:09: infinst: Target file: 'C:\Windows\system32\D3DCompiler_37.dll' 
+	Target file is Version 9.22.949.2248
+	Source file is Version 9.22.949.2248
+04/12/24 13:12:09: infinst: Currently C:\Windows\system32\D3DCompiler_37.dll is newer than the one being installed.
+04/12/24 13:12:09: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX1118.tmp\X3DAudio1_3_x64.inf [DefaultInstall]
+04/12/24 13:12:09: infinst: Target file: 'C:\Windows\system32\X3DAudio1_3.dll' 
+	Target file is Version 9.22.1284.0
+	Source file is Version 9.22.1284.0
+04/12/24 13:12:09: infinst: Currently C:\Windows\system32\X3DAudio1_3.dll is newer than the one being installed.
+04/12/24 13:12:09: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX1118.tmp\XACT3_0_x64.inf [DefaultInstall]
+04/12/24 13:12:09: infinst: Target file: 'C:\Windows\system32\xactengine3_0.dll' 
+	Target file is Version 9.22.1284.0
+	Source file is Version 9.22.1284.0
+04/12/24 13:12:09: infinst: Currently C:\Windows\system32\xactengine3_0.dll is newer than the one being installed.
+04/12/24 13:12:09: infinst: Installing C:\Users\valeron\AppData\Local\Temp\DX1118.tmp\XAudio2_0_x64.inf [DefaultInstall]
+04/12/24 13:12:09: infinst: Target file: 'C:\Windows\system32\XAudio2_0.dll' 
+	Target file is Version 9.22.1284.0
+	Source file is Version 9.22.1284.0
+04/12/24 13:12:09: infinst: Currently C:\Windows\system32\XAudio2_0.dll is newer than the one being installed.
